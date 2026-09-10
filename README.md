@@ -99,41 +99,31 @@ The dashboard is designed to answer the following questions:
 
 ### Dashboard 1 - Inventory Overview
 
-The Inventory Overview page provides a high-level summary of inventory health, inventory value, stock units and category-level inventory distribution.
-
-![Dashboard 1](PNG/Dashboard_1.png)
+![Dashboard 1](PNG/Dashboard%201.PNG)
 
 ---
 
 ### Dashboard 2 - Stock Health & Replenishment
 
-The Stock Health & Replenishment page focuses on critical products, low-stock products, reorder requirements, stock coverage and products requiring action.
-
-![Dashboard 2](PNG/Dashboard_2.png)
+![Dashboard 2](PNG/Dashboard%202.PNG)
 
 ---
 
 ### Dashboard 3 - Product Inventory Analysis
 
-The Product Inventory Analysis page provides product-level analysis covering inventory value, units sold, sales revenue, days of inventory and inventory turnover.
-
-![Dashboard 3](PNG/Dashboard_3.png)
+![Dashboard 3](PNG/Dashboard%203.PNG)
 
 ---
 
 ### Dashboard 4 - Category & Brand Performance
 
-The Category & Brand Performance page analyzes demand, inventory value, sales revenue, inventory turnover and replenishment requirements across categories and brands.
-
-![Dashboard 4](PNG/Dashboard_4.png)
+![Dashboard 4](PNG/Dashboard%204.PNG)
 
 ---
 
 ### Dashboard 5 - Replenishment & Management
 
-The Replenishment & Management page focuses on supplier replenishment risk, reorder units, overstocked products, supplier lead time and replenishment actions.
-
-![Dashboard 5](PNG/Dashboard_5.png)
+![Dashboard 5](PNG/Dashboard%205.PNG)
 
 ---
 
